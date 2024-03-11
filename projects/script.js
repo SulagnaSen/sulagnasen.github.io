@@ -21,7 +21,7 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Projects | Portfolio Sulagna Sen";
-            $("#favicon").attr("href", "/assets/images/favicon.png");
+            $("#favicon").attr("href", "/assets/images/favicon.jpg");
         }
         else {
             document.title = "Come Back To Portfolio";
