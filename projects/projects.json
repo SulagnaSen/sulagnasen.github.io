@@ -20,7 +20,7 @@
   {
     "name": "Facial Emotion Detection",
     "desc": "A hands-on approach using Python demonstrating CNNs' role in computer vision for emotion recognition..",
-    "image": "emotion",
+    "image": "emotion_detection",
     "category": "android",
     "links": {
       "code": "https://github.com/SulagnaSen/EmotionDetection"
