@@ -1,12 +1,12 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
+    "name": "TrelloBoard Clone",
+    "desc":"A Trello Clone dashboard for managing and tracking tasks for respective users involving API calls to add, delete users, create, edit, view and maintain a history of tasks using Java Spring MVC, Hibernate and MySQL.",
+    "image": "trelloboard",
     "category": "android",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "code": "https://github.com/SulagnaSen/TrelloBoardApp"
     }
   },
   {
