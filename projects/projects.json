@@ -3,7 +3,6 @@
     "name": "TrelloBoard Clone",
     "desc":"A Trello Clone dashboard for managing and tracking tasks for respective users involving API calls to add, delete users, create, edit, view and maintain a history of tasks using Java Spring MVC, Hibernate and MySQL.",
     "image": "trelloboard",
-    "category": "android",
     "links": {
       "code": "https://github.com/SulagnaSen/TrelloBoardApp"
     }
@@ -12,7 +11,6 @@
     "name": "Financial News Sentiment Analysis",
     "desc": "Comparative sentiment analysis on financial news and blockchain data, implementing NLP techniques and highlighting accuracy variations between traditional ML and deep learning models",
     "image": "NLP",
-    "category": "android",
     "links": {
       "code": "#"
     }
@@ -21,7 +19,6 @@
     "name": "Facial Emotion Detection",
     "desc": "A hands-on approach using Python demonstrating CNNs' role in computer vision for emotion recognition..",
     "image": "emotion_detection",
-    "category": "android",
     "links": {
       "code": "https://github.com/SulagnaSen/EmotionDetection"
     }
@@ -30,7 +27,6 @@
     "name": "AI Gomoku Game Implementation",
     "desc": "Involves development, testing and analysis of an AI utilizing a minimax algorithm with alpha-beta pruning for strategic decision-making in the Gomoku game",
     "image": "gomoku",
-    "category": "mern",
     "links": {
       "code": "https://github.com/SulagnaSen/GomokuAI-Game"
     }
