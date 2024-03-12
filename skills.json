@@ -4,6 +4,10 @@
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
+        "name": "Spring Boot",
+        "icon": "https://img.icons8.com/color/48/spring-logo.png"
+    },
+    {
         "name": "NodeJS",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
@@ -13,7 +17,7 @@
     },
     {
         "name": "TypeScript",
-        "icon": "https://img.icons8.com/ios-filled/50/typescript.png" 
+        "icon": "https://img.icons8.com/ios/50/typescript.png"
     },
     {
         "name": "Bootstrap",
@@ -34,6 +38,10 @@
     {
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Postman",
+        "icon": "https://img.icons8.com/wired/64/FD7E14/postman-api.png"
     },
     {
         "name": "Python",
@@ -82,5 +90,9 @@
     {
         "name": "WordPress",
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
+    },
+    {
+        "name": "Ansible",
+        "icon": "https://img.icons8.com/fluency/48/ansible.png"
+    }
 ]
