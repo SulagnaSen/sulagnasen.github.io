@@ -1,7 +1,7 @@
 [
   {
     "name": "TrelloBoard Clone",
-    "desc":"A Trello Clone dashboard for managing and tracking tasks for respective users involving API calls to add, delete users, create, edit, view and maintain a history of tasks using Java Spring MVC, Hibernate and MySQL.",
+    "desc":"A Trello Clone dashboard for managing and tracking tasks for respective users involving API calls using Java Spring MVC, Hibernate and MySQL.",
     "image": "trelloboard",
     "links": {
       "code": "https://github.com/SulagnaSen/TrelloBoardApp"
@@ -9,7 +9,7 @@
   },
   {
     "name": "Financial News Sentiment Analysis",
-    "desc": "Comparative sentiment analysis on financial news and blockchain data, implementing NLP techniques and highlighting accuracy variations between traditional ML and deep learning models",
+    "desc": "Comparative sentiment analysis on financial news and blockchain data, implementing NLP techniques",
     "image": "NLP",
     "links": {
       "code": "#"
